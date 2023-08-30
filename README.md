@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.liftsearch.co.za">
-    <img src="https://skillicons.dev/icons?i=ruby,go,react,rails,firebase,postgres,rspec" />
+    <img src="https://skillicons.dev/icons?i=ruby,go,react,angular,rails,firebase,mongo,postgres,rspec" />
   </a>
 </p>
 <p align="center">
