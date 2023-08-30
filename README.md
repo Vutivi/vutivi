@@ -26,7 +26,7 @@
 </p>
 <p align="center">
   <a href="https://www.liftsearch.co.za">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,figma, jquery,bash,git,github,algolia" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,figma,jquery,bash,git,github,algolia" />
   </a>
 </p>
 
